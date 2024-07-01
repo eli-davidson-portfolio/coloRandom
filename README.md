@@ -45,7 +45,6 @@ The application is live on AWS and can be accessed [here](https://main.d2dt486bc
 ### Others
 - Node.js (for package management and scripts)
 
-
 ## Application Features
 
 **New Palette on Page Load**

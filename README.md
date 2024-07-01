@@ -33,10 +33,18 @@ The application is live on AWS and can be accessed [here](https://main.d2dt486bc
 - Enhance collaboration skills in a team setting.
 
 ## Technologies Used
-- Git
-- HTML
-- CSS
+
+### Languages
 - JavaScript
+- HTML5
+- CSS3
+
+### Tools
+- Git (for version control)
+
+### Others
+- Node.js (for package management and scripts)
+
 
 ## Application Features
 
